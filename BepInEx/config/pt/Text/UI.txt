@@ -1,0 +1,184 @@
+﻿# UI
+
+(Cannot hold until ship has landed)=(Impossível interagir até pousar.)
+(Dead)=(Morto)
+(Requires battery-powered item)=(Apenas itens com bateria.)
+(Spectating: )=(Espectadores: )
+[LIFE SUPPORT: OFFLINE]=[SINAIS VITAIS: OFFLINE]
+
+# A-M
+Alert! The autopilot is leaving due to dangerous conditions.=Alerta! Piloto automático acionado: nave partindo devido à condições perigosas.
+ALERT!=ALERTA!
+An error occurred!=Ocorreu um erro!
+An error occured!=Ocorreu um erro!
+
+Blast=Explosão
+bludgeoning=espancamento
+BROADCASTED SPECIAL CODE=TRANSMISSÃO ESPECIAL
+Buy flashlights and travel to new planets!=Compre lanternas e viaje para novos planetas!
+
+Can't stay closed forever=Não dá pra ficar fechado pra sempre...
+Change suit=Mudar traje
+Change: Green suit=Mudar: Green suit
+Change: Hazard suit=Mudar: Hazard suit
+Change: Pajama suit=Mudar: Pajama suit
+Confirm changes?=Confirmar alterações?
+Continue=Continuar
+Could not connect to STEAM servers! (If you just want to play on your local network, choose LAN on launch. )=Não foi possível se conectar ao servidores da STEAM! (Se você deseja apenas jogar sozinho, escolha LAN ao abrir o jogo. )
+CREW:=TRIPULAÇÃO:
+CRITICAL INJURY=FERIMENTO CRÍTICO
+
+DEADLINE:\n NOW=PRAZO:\n AGORA
+Door controls=Controles da porta
+DOOR HYDRAULICS:=PRESSÃO INTERNA:
+Drop your metallic items now! A static charge has been detected. You have seconds left to live.=Largue os itens metálicos já! Uma descarga elétrica foi detectada. Você tem segundos de vida.
+
+EMPLOYEE RANK=RANK DO FUNCIONÁRIO
+Employee=Funcionário
+Error! Could not get the lobby data. Are you offline?=Erro! Não foi possível receber os dados do lobby. Você está offline?
+
+Fines=Multas
+
+Got scrap!=Conseguiu sucata!
+Gunshots=Tiros
+
+HALT!=PARADO!
+HANDS FULL=MÃOS OCUPADAS
+
+Intern=Interno
+Inventory full!=Inventário cheio!
+Item collected!=Item coletado!
+
+Lands the ship.=Pousa a nave.
+Leader=Líder
+Locked=Trancado
+LOADING WORLD...=CARREGANDO MUNDO... 
+Loading server list...=Carregando lista de servidores...
+
+Mauling=Esquartejamento
+Most profitable=Mais lucrativo
+
+# N-Z
+New creature data sent to terminal!=Novos dados de criatura enviados ao terminal!
+NEW PROFIT QUOTA:=NOVA COTA:
+None=Nenhum
+Notes: \n=Notas: \n
+Notes:=Notas:
+
+Option A=Opção A
+
+Paycheck!=Caiu o pagamento!
+PERFORMANCE REPORT=RELATÓRIO DE DESEMPENHO
+Picking lock: (.+) sec.=Arrombando: $1 seg.
+PILOT COMPUTER=COMPUTADOR PILOTO
+
+#Player in Latin is "Lūdēns"
+Player=Player
+Press "/" to talk.=Pressione '/' para falar.
+Price=Preço
+PRIVATE means you must send invites through Steam for players to join.=PRIVADO significa que você precisa enviar convites pela Steam para outros jogadores entrar.
+PUBLIC means your game will be visible on the server list for all to see.=PÚBLICO significa que o seu jogo estará visível na lista de servidores para todos.
+Public=Público
+Push to talk:=Pressione para falar:
+
+QUOTA REACHED!=COTA ATINGIDA!
+Quota=Cota
+
+RECEIVING SIGNAL=RECEBENDO SINAL
+
+r:"^(.*) \n AM"=AM $1
+r:"^(.*) \n PM"=PM $1
+r:"^(.*) EXP$"=$1 EXP
+r:"^(.*) FPS$"=FPS $1
+r:"^(.*)\nAM"=AM $1
+r:"^(.*)\nPM"=PM $1
+r:"^(.+?)joined the ship(.+?)$"=$1 juntou-se à nave$2
+r:"^Player: (.+)"=(Player: $1)
+r:"^(.+) (Days|Day) Left$"=$1 Dia(s) Restantes
+r:"^(.+) casualties: (.+)\n\((.+) bodies recovered\)$"=$1 Vítimas:$2\n（$3 corpos recolhidos）
+r:"^(.+) started the ship."=$1 ligou a nave.
+r:"^(.+) was left behind."=$1 foi deixado para trás.
+r:"^([0-9]+) lb$"=$1 lb
+r:"^(\$[0-9]+)\nDays: ([0-9]+)$"=$1\nDias: $2
+r:"^(Current input device: \n)(.*)$"=Dispositivo de entrada atual:$2
+r:"^\(([0-9]+)/([0-9]+) Votes\)$"=($1/$2 Votos)
+r:"^\(Spectating: (.+)\)$"=(Espectador: $1)
+r:"^\[Cooldown : (.+)s\]$"=[Cooldown: $1s]
+r:"^\[MODDED\](.+?)$"=[MODIFICADO]$1
+r:"^Body of (.+)$"=Corpo de $1
+r:"^Casualties \((.+)\): (.+)$"=Vítimas ($1):$2
+r:"^CELESTIAL BODY: (.+?)$"=CORPO CELESTIAL: $1
+r:"^Days on the job: (.+?)\nScrap value collected: (.+?)\nDeaths: (.+?)\nSteps taken: (.+?)$"=Dias trabalhados: $1\nValor total coletado: $2\nMortes: $3\nTotal de passos dados: $4
+r:"^DEADLINE:\n([0-9]+) Days$"=PRAZO:\n$1 Dia(s)
+r:"^DUE: (\$[0-9]+)$"=TAXA: $1
+r:"^File ([0-9]+)$"=Arquivo $1
+r:"^MONITORING: (.+)$"=MONITORANDO: $1
+r:"^Overtime bonus: (.+)$"=Bônus: $1
+r:"^PROFIT QUOTA:\n(\$[0-9]+) / (\$[0-9]+)$"=COTA:\n$1 / $2
+r:"^Random seed: ([0-9]+)$"=Seed aleatória: $1
+r:"^(.*)Random seed(.*)$"=Seed aleatória: $2
+r:"^SHIP: (.+)$"=NAVE: $1
+r:"^TOTAL: (.+)$"=TOTAL: $1
+r:"^Value: (.+)"=Valor: $1
+r:"^WARNING! Please return by (.+). A vote has been cast, and the autopilot ship will leave early.$"=ALERTA!\n Por favor retorne até (.+) -a. Uma votação foi feita, e o piloto automático decolará mais cedo.
+
+Random seed: {{A}}=Seed aleatória:{{A}}
+Random seed: =Seed aleatória: 
+
+Sell scrap for cash.=Venda sucata por dinheiro.
+Ship leaving in one hour=A nave decolará em uma hora
+
+sr:"^(.+?)collected!$"=$1 coletado！
+sr:"^Cause of death: (.+)$"=Causa da morte: $1
+sr:"^Drop (.+?): \[G\]$"=Dropar $1: [G]
+sr:"^Spray : \[LMB\]$"=\nSpray: [LMB]
+sr:"^Shake can : \[Q\]$"=\nAgitar lata: [Q]
+sr:"^Found journal entry: (.+)$"=Encontrou relatório: $1 
+sr:"^Notes: \n* (.+)\n* (.+)\n* (.+)\n* (.+)$\n"=Notas: \n* $1\n* $2\n* $3 \n* $4\n
+sr:"^Orbiting: ([\s\S]+)\nPOPULATION: ([\s\S]+)\nCONDITIONS: ([\s\S]+)\nFAUNA: ([\s\S]+)(\n)?([\s\S]+)?$"=Orbitando: $1\nPOPULAÇÃO: $2\nCONDIÇÕES: $3\nFAUNA: $4$5$6
+sr:"^Orbiting: ([\s\S]+)\nPOPULATION: ([\s\S]+)\nCONDITIONS: ([\s\S]+)\nFAUNA: ([\s\S]+)\nWeather: ([\s\S]+)$"=Orbitando: $1\nPOPULAÇÃO: $2\nCONDIÇÕES: $3\nFAUNA: $4\nCLIMA: $5
+sr:"^POPULATION: ([\s\S]+)\nCONDITIONS: ([\s\S]+)\nFAUNA: ([\s\S]+)$"=POPULAÇÃO: $1\nCONDIÇÕES: $2\nFAUNA: $3
+sr:"^POPULATION: ([\s\S]+)\nCONDITIONS: ([\s\S]+)\nFAUNA: ([\s\S]+)\n([\s\S]+)$"=POPULAÇÃO: $1\nCONDIÇÕES: $2\nFAUNA: $3
+
+SPIDER=ARANHA
+Stats=Status
+Strangulation=Estrangulamento
+Sustained the most injuries.=Aguentou mais pancadas
+SYSTEMS ONLINE=SISTEMAS ONLINE
+
+Tell autopilot ship to leave early : [RMB] (Hold)=Votar para o piloto automático decolar mais cedo : [RMB] (Segurar)
+Terminal=Terminal
+The autopilot will now attempt to fly to the closest safe spaceport. Your items have been lost.=O piloto automático tentará voar até a área segura mais próxima. Seus itens foram perdidos.
+The Company must minimize risk of damage to proprietary hardware. Goodbye!=A Companhia precisa minimizar o risco de dano à propriedade e hardware. Adeus!
+The file will NOT save! Your ship must be in orbit.=O jogo NÃO será salvo! É necessário estar em órbita.
+The laziest employee.=O mais preguiçoso.
+The host has not loaded or has already landed their ship.=O host ainda não carregou; ou já pousou a nave.
+The most paranoid employee.=O mais paranóico.
+Notes:\n* Most lazy employee\n* Most paranoid employee\n* Sustained the most injuries=Notas: * O mais preguiçoso. * O mais paranóico. * Sofreu mais dano.
+TIP!: Hold [RMB] to vote for the autopilot ship to leave early.=Dica! Segure [RMB] para votar para o piloto automático decolar mais cedo.
+TIP:=DICA:
+TO MEET PROFIT QUOTA=PARA ATINGIR COTA
+To sell, use the terminal to route the ship to the company building.=Para vender, user o terminal para traçar uma rota até o prédio da Companhia.
+TOTAL:=TOTAL:
+Training manual=Manual de Treinamento
+Typing...=Digitando...
+
+Uncapped=Sem limite
+Use the ship computer terminal to access secure doors.=Use o terminal da nave para acessar portas seguras.
+Useful info!=Informação útil!
+
+Value: ???=Valor: ???
+VISIBILITY LOW!\n\nSteam leak detected in area=VISIBILIDADE COMPROMETIDA!\n\nVazamento de gás detectado!
+Voice volume=Vollume de voz
+Voted for ship to leave early=Votar para o piloto automático decolar mais cedo.
+
+Waiting for crew...=Esperando pela tripulação...
+Waiting for input=Esperando por alguma ação
+Warning! No response from crew, which has not returned. Emergency code activated.=Atenção! Sem resposta da tripulação, que não voltou. Código de Emergência ativado.
+WARNING!!! The autopilot ship will leave at midnight. Please return quickly.=ATENÇÃO!!! O piloto automático decolará meina-noite. Por favor, retorne rapidamente.
+
+YOU ARE FIRED.=VOCÊ FOI DEMITIDO.
+You did not meet the profit quota before the deadline.=Você não atingiu a cota de lucro antes do prazo.
+You did not meet the profit quota before the deadline.=Você não atingiu a cota de lucro antes do prazo.
+You have landed in an eclipse. Exercise caution!=Você pousou com um eclipse. Exerça cuidado!
+You have 0 days left to meet the quota. Use the terminal to route to the company and sell.=Você tem 0 dias restantes para atingir a cota de lucro. Use o terminal para traçar uma rota até a Companhia para vender.

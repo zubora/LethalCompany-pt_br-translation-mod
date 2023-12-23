@@ -1,0 +1,104 @@
+﻿# Interactive
+#TODO: Review and Standardize
+
+[ Not holding items ]=[Mãos vazias]
+[Cannot pull valve]=[Impossível girar válvula]
+[Hands full]=[Mãos ocupadas]
+[Nothing to store]=[Nada para guardar]
+[Pulling cord]=[Puxando corda]
+[Wait for ship to land]=[Aguarde a aterrissagem]
+
+# A-M
+Access terminal : [E]=Acessar terminal: [E]
+
+Beam up : [E]=Teleportar: [E]
+
+Charge item : [E]=Carregar item: [E]
+Climb : [E]=Subir: [E]
+Close door : [E]=Fechar porta: [E]
+Confirm: [B]   |   Rotate: [R]   |   Store: [X]=Confirmar: [B]  |   Girar: [R]  |   Armazenar: [X]
+
+Disable speaker: [E]=Desabilitar alto-falante: [E]
+
+Enter : [E]=Entrar: [E]
+Enter: [E]=Entrar: [E]
+Exit : [E]=Sair: [E]
+Exit: [E]=Sair: [E]
+
+Fire : [LMB]= Atirar: [LMB]
+Flip switch: [E]=Interruptor: [E]
+Flush: [E]=Enviar: [E]
+
+Get log : [E]=Pegar relatório: [E]
+Grab : [E]=Pegar: [E]
+Grab: [E]=Segurar: [E]
+
+Hit pumpkin : [E]=Bater na abóbora: [E]
+
+Inspect: [Z]=Inspecionar: [Z]
+
+Land ship : [E]=Aterrizar nave: [E]
+Let go : [E]=Soltar: [E]
+Lift glass : [E]=Abrir vidro: [E]
+
+# N-Z
+Open : [E]=Abrir: [E]
+Open door : [E]=Abrir porta: [E]
+Open hatch : [E]=Abrir escotilha: [E]
+Open: [E]=Abrir: [E]
+Open gift : [LMB]=Abrir presente: [LMB]
+
+Place on door : [LMB]=Colocar na porta: [LMB]
+Play record: [E]=Tocar disco: [E]
+Pop up ladder : [LMB]=Abrir escada: [LMB]
+Power button : [Q]=Botão de Energia: [Q]
+Pull pin : [LMB]=Puxar pino: [LMB]
+Pull switch : [E]=Puxar alavanca: [E]
+
+Quit terminal : [TAB]=Sair do terminal: [TAB]
+
+Reload : [E]=Recarregar: [E]
+Ring bell: [E]=Tocar campainha: [E]
+
+Scan : [RMB]=Escanear: [RMB]
+Sell item : [E]=Vender item: [E]
+Send voice : [LMB]=Enviar voz: [LMB]
+Set candles: [E]=Ajustar velas: [LMB]
+Shake can : [Q]=Chacoalhar lata: [Q]
+Sprint: [Shift]=Correr: [Shift]
+Spray : [LMB]=Spray: [LMB]
+Squeeze : [E]=Espremer: [E]
+Start game : [E]=Iniciar jogo: [E]
+Start ship : [E]=Ligar nave: [E]
+Store item : [E]=Armazenar item: [E]
+Swing shovel : [LMB]=Bater com a pá: [LMB]
+Swing sign : [LMB]=Bater com a placa: [LMB]
+Switch camera : [E]=Mudar câmera: [E]
+Switch lights : [E]=Ligar/Desligar luzes: [E]
+
+Take TZP : [LMB]=Ingerir TZP: [LMB]
+Toggle light : [LMB]=Lig/Desligar lanterna: [LMB]
+Toggle laser : [LMB]=Lig/Desligar laser: [LMB]
+Toggle music : [LMB]=Lig/Desligar música: [LMB]
+Turn on booster : [LMB]=Ativar amplificador: [LMB]
+Turn on/off : [E]=Ligar/Desligar: [E]
+Turn safety on: [Q]=Ativar trava de segurança: [Q]
+Turn safety off: [Q]=Desat. trava de segurança: [Q]
+Turn page : [Q/E]=Virar página: [Q/E]
+
+Use airhorn : [LMB]=Usar corneta: [LMB]
+Use cash register : [LMB]=Usar caixa-registradora: [LMB]
+Use door : [E]=Usar porta: [E]
+Use grenade : [LMB]=Usar granada: [LMB]
+Use hairdryer : [LMB]=Usar secador: [LMB]
+Use DIY-Flashbang : [LMB]=Usar flashbang improvisado: [LMB]
+Use horn : [LMB]=Usar buzina: [LMB]
+Use key : [LMB]=Usar chave: [LMB]
+Use key : [LMB]=Usar chave: [LMB]
+Use ladder : [E]=Usar escada: [E]
+Use Large axle : [G]=Usar eixo grande: [G]
+Use remote : [LMB]=Usar controle remoto: [LMB]
+
+Walk : [W/A/S/D]=Andar: [W/A/S/D]
+
+sr:"^(.+) \((.+)\) : (.+)\n$"=$1 ($2):$3

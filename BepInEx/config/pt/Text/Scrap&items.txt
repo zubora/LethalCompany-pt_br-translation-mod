@@ -1,0 +1,240 @@
+﻿# Scrap & Items
+# TODO: Review and Standardize
+
+# A-C
+Airhorn =Corneta 
+Airhorn=Corneta
+Ammo=Munição
+Ammo =Munição 
+Apparatice =Aparato 
+Apparatice=Aparato
+Apparatus =Aparelho 
+Apparatus=Aparelho
+
+Bee hive=Colmeia de Abelhas
+Bell =Sino 
+Big bolt =Parafuso G 
+Big Bolt =Parafuso G 
+Big bolt=Parafuso G
+Big Bolt=Parafuso G
+Body =Corpo 
+Body=Corpo
+Boombox =Caixa de Som 
+Boombox=Caixa de Som
+Bottles =Garrafas 
+Bottles=Garrafas
+Brake lever=Alavanca de Freio
+Brass bell =Sino de Latão 
+Brass bell=Sino de Latão
+Brush =Escova 
+Brush=Escova
+Bubblegum =Chiclete 
+Bubblegum=Chiclete
+
+Candy =Doce 
+Candy=Doce
+Cash register =Caixa registradora 
+Cash register=Caixa registradora
+Charges batteries=Baterias
+Chemical jug =Galão químico 
+Chemical jug=Galão químico
+clipboard =prancheta 
+clipboard=prancheta
+Clown horn =Buzina de palhaço 
+Clown horn=Buzina de palhaço
+Coffee mug=Xícara
+Coffee mug =Xícara 
+Cog =Engrenagem 
+Cog=Engrenagem
+Coil=Bobina
+Cookie mold pan =Molde de biscoitos 
+Cookie Mold Pan =Molde de Biscoitos 
+Cookie mold pan=Molde de biscoitos
+Cookie Mold Pan=Molde de Biscoitos
+
+# D-M
+
+Data chip =Chip de dados 
+Data chip=Chip de dados
+Dentures =Dentaduras 
+Dentures=Dentaduras
+Double-barrel=Doiscano
+Double-barrel =Doiscano 
+Dust pan =Pá de lixo 
+Dust Pan =Pá de Lixo 
+Dust pan=Pá de lixo
+Dust Pan=Pá de Lixo
+
+Echo Scanner =Eco-Scanner 
+Egg beater =Batedor de ovos 
+Egg Beater =Batedor de Ovos 
+Egg beater=Batedor de ovos
+Egg Beater=Batedor de Ovos
+Extension ladder =Escada extensível 
+Extension ladder=Escada extensível
+
+Fancy lamp =Lâmpada de luxo 
+Fancy lamp=Lampada de luxo
+Fancy ring =Anel brilhante 
+Fancy ring=Anel brilhante
+Flashlight =Lanterna 
+Flask=Cantil
+Flask =Cantil 
+
+Gift =Presente 
+Gift box=Caixa de presente
+Gift box =Caixa de presente 
+Gold bar =Barra de ouro 
+Gold Bar =Barra de Ouro 
+Gold Bar=Barra de Ouro
+Gold Bar=Barra de Ouro
+Golden cup =Xícara dourada 
+Golden cup=Xícara dourada
+
+Hair brush =Escova de cabelo 
+Hair brush=Escova de cabelo
+Hairbrush =Escova de cabelo 
+Hairbrush=Escova de cabelo
+Hairdryer =Secador de cabelo 
+Hairdryer=Secador de cabelo
+Hive =Colméia 
+Hive=Colmeia
+Homemade flashbang=Flashbang caseira
+Homemade flashbang =Flashbang caseira 
+
+#In Latin: Transportātor inversus
+Inverse Teleporter=Teletransporte Inverso
+Jack O' Lanter=Jack O' Lantern
+Jar of pickles =Jarra de picles 
+Jar of pickles=Jarra de picles
+
+# Back Jet
+Jetpack=Mochila a Jato
+Key =Chave
+Key=Chave
+Comedy=Comédia
+Comedy =Comédia 
+Large axle =Eixo grande 
+Large axle=Eixo grande
+Laser pointer =Ponteiro laser 
+Laser pointer=Ponteiro laser
+
+# A lockpick could be described as a "LockBreaker", no?
+Lockpicker =Lockpicker 
+Lockpicker=Lockpicker
+Loud horn=Apito de trem
+Loud horn =Apito de trem 
+Magic ball =Bola mágica 
+Magic ball=Bola mágica
+Magnifying glass =Lupa 
+Magnifying glass=Lupa
+Metal sheet =Chapa de metal 
+Metal Sheet =Chapa de Metal 
+Metal sheet=Chapa de metal
+Metal Sheet=Chapa de Metal
+Mug =Xícara 
+Mug=Xícara
+
+# N-R
+Old phone =Telefone antigo 
+Old phone=Telefone antigo
+Painting =Quadro 
+Painting=Quadro
+Perfume bottle =Frasco de perfume 
+Perfume bottle=Frasco de perfume
+Pickle jar =Jarro de picles 
+Pickle jar=Jarro de picles
+Pill Bottle =Comprimidos 
+Pill Bottle=Comprimidos
+Pill bottle =Comprimidos 
+Pill bottle=Comprimidos
+Plastic fish =Peixe de plástico 
+Plastic fish=Peixe de plástico
+Pro-flashlight =Lanterna Pro 
+Pro-flashlight =Lanterna Pro 
+Pro-flashlight=Lanterna Pro
+Pro-flashlight=Lanterna Pro
+
+# I couldn't find a translation for Booster, so Amplifier will do.
+Radar-booster=Amplificador de radar
+Radar-booster =Amplificador de radar 
+(Radar booster)=(Amplificador de radar)
+Record Player=Toca Disco
+
+# We are not calling all sodas "cola" as that would be letting Coke win, and we are not lumping a can of sugar in with water [sodakvo]!
+Red soda =Lata de Coca 
+Red soda=Lata de Coca
+Remote =Controle remoto 
+Remote=Controle remoto
+Ring =Anel 
+Robot Toy=Robô de Brinquedo
+Robot toy =Robô de brinquedo 
+Robot Toy =Robô de Brinquedo 
+Robot toy=Robô de brinquedo
+Romantic table=Mesa romântica
+
+# How do I say "Ducky" in Esperanto >:(
+Rubber ducky =Patinho de borracha 
+Rubber Ducky =Patinho de Borracha 
+Rubber ducky=Patinho de borracha
+r:"^Magic 7 ball(.*)"=Bola Mágica $1
+
+# S-Z
+Ship=Nave
+Shotgun=Doiscano
+Shotgun =Doiscano 
+Shotgun shell=Munição da Doiscano
+Shotgun shell =Munição da Doiscano 
+Shovel =Pá 
+Shovel=Pá
+Shower=Chuveiro
+Signal Translator=Tradutor de Sinais
+Signal Transmitter=Transmissor de Sinais
+Signal translator=Tradutor de sinais
+Signal transmitter=Transmissor de sinais
+Sneakers =Tênis 
+Sneakers=Tênis
+Spray paint =Lata de spray 
+Spray paint=Lata de spray
+Steering wheel =Volante 
+Steering Wheel =Volante 
+Steering wheel=Volante
+Steering Wheel=Volante
+Sticky note =Post-it 
+Stop sign =Placa de PARE 
+Stop sign=Placa de PARE
+Stun grenade =Granada de Stun
+
+Table=Mesa
+Tattered metal sheet =Chapa de metal desgastada 
+Tattered metal sheet=Chapa de metal desgastada
+Tea kettle =Chaleira 
+Tea kettle=Chaleira
+Tea Kettle=Chaleira
+Teleporter=Teletransportador
+Television=Televisão
+Toilet=Privada
+Toothpaste =Pasta de dente 
+Toothpaste=Pasta de dente
+Toy cube =Cubo de brinquedo 
+Toy cube=Cubo de brinquedo
+Toy robot =Robô de brinquedo 
+Toy robot=Robô de brinquedo
+Tragedy=Tragédia
+Tragedy =Tragédia 
+TZP-Inhalant =Inalante-TZP 
+
+Unnamed=Sem nome
+
+V-type engine =Motor Tipo-V 
+V-type engine=Motor Tipo-V
+
+Walkie-talkie =Walkie-Talkie 
+Wedding ring =Anel de noivado 
+Wedding ring =Anel de noivado 
+Wedding ring=Anel de noivado
+Whoopie cushion=Almofada de peido
+
+Yield sign =Placa de preferência 
+
+Zap gun =Arma ZAP 

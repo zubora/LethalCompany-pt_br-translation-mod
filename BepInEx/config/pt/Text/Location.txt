@@ -1,0 +1,59 @@
+﻿# Location
+# TODO: Review and Standardize
+
+# Planets/moons
+# Don't edit, since you need to be able to navigate to them
+21 Offense=21 Offense
+220 Assurance=220 Assurance
+31 March=31 March
+41 Experimentation=41 Experimentation
+56 Vow=56 Vow
+61 March=61 March
+71 Gordion=71 Gordion
+85 Rend=85 Rend
+
+# A-M
+A competitive ecosystem supports aggressive lifeforms.=Um ecossistema competitivo que abre portas para seres vivos agressivos.
+Abandoned=Abandonado
+Arid. Thick haze, worsened by industrial artifacts.=Árido. Uma névoa densa; e os artefatos industrais não ajudam.
+
+Dangerous entities have been rumored to take residence in the vast network of tunnels.=Há rumores de que entidades perigosas se abrigam aqui, em uma vasta rede de túneis.
+Diverse=Diversa
+Dominated by a few species.=Dominado por algumas espécies.
+
+Eclipsed=Eclipse
+(Eclipsed)=(Eclipse)
+Ecosystem supports territorial behaviour.=O ecossistema exibe comportamento territorial.
+Ecosystem supports territorial behaviour.=O ecossistema exibe comportamento territorial.
+Expansive. Constant rain.=Expansivo. Chuva constante.
+
+#All translated to PT-BR, disregarding Latin and Esperanto translations.
+Flooded=Inundado.
+Foggy=Nublado
+Frozen, rocky. Its planet orbits a white dwarf star.=Congelado, rochoso. Um planeta que orbita uma estrela anã.
+Frozen, rocky. This moon was mined for resources. It's easy to get lost here.=Congelado, rochoso. Essa lua foi minerada por recursos. É fácil se perder aqui.
+
+HAZARD LEVEL:=NÍVEL DE PERIGO:
+Home base=Base
+Humid. Rough terrain. Teeming with plant-life.=Úmido, e o terreno não ajuda. Repleto de vida vegetal.
+
+Jagged and weathered terrain. =Terreno irregular, e desgastado. 
+Jagged and weathered terrain.=Terreno irregular, e desgastado. 
+
+Main entrance=Entrada Principal
+
+# N-Z
+No land masses. Continual storms.=Sem massas terrestres. Tempestades contínuas.
+
+Oxygen critically low!=Nível de Oxigênio — Crítico!
+
+Rainy=Chuvoso
+
+Safe=Seguro
+Stormy=Tempestuoso
+Stormy=Tempestuoso
+
+Unlikely for complex life to exist\n=Díficil existir formas de vida complexas.
+Unknown=Desconhecido
+Unknown\nWhere the Company resides.\n=Desconhecido\nAonde reside a Companhia.\n
+Unlikely for complex life to exist.=Díficil existir formas de vida complexas.

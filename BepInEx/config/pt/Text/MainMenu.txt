@@ -1,0 +1,188 @@
+﻿# Main menu
+#TODO: Review and Standardize
+
+  CONFIRM=  CONFIRMAR
+  CONFIRM=  CONFIRMAR
+  DISABLED=DESABILITADO
+  LAN=  LAN
+  Online=  Online
+(Recommended)=(Recomendado)
+(Launched in LAN mode)=(Executando em modo LAN)
+[ Back ]=[ Voltar ]
+[ Confirm ]=[ Confirmar ]
+[ Continue ]=[ Continuar ]
+[ Refresh ]=[Recarregar]
+
+> Back to menu=> Voltar ao menu
+> Back=> Voltar
+> Cancel=> Cancelar
+> Confirm changes=> Confirmar alterações
+> Confirm=> Confirmar
+> CONFIRM=> CONFIRMAR
+> Credits=> Créditos
+> Host=> Hostear
+
+> Invite friends=> Convidar amigos
+> Join a crew=> Juntar-se à uma tripulação
+> LAN=> LAN
+> Online=> Online
+> Quit=> Sair
+> Reset all to default=> Resetar tudo para padrão
+> Resume=> Resumir
+> Settings=> Configurações
+
+# A-M
+ACCESSIBILITY=ACESSIBILIDADE
+Arachnophobia Mode=Modo Aracnofobia
+Adjust screen brightness until the symbol on the right is barely visible.=Ajuste o brilho até que o símbolo na direita mal esteja visível.
+An error occured when syncing the scene! The host might not have loaded in.=Um erro ocorreu ao tentar sincronizar! Talvez o host ainda não carregou.
+Autosaving...=Salvando auto....
+
+Back=Voltar
+BACK=VOLTAR
+
+> Change keybinds=> Alterar teclas
+CONFIRM= CONFIRMAR
+Confirm=Confirmar
+CONTROLS=CONTROLES
+Cosmetics Enabled:=Cosméticos Ativos:
+Credits=Créditos
+Crew Size:=Tamanho da Tripulação:
+
+Delete=Deletar
+Discard changes=Descartar alterações
+Discard=Descartar
+DISCARD=DESCARTAR
+Display mode:=Modo de exibição:
+DISPLAY=EXIBIÇÃO
+
+ENABLED=ATIVADO
+Enter a lobby name!=Insira o nome do lobby！
+
+Frame rate cap:=FPS máx.:
+Friends-only=Apenas amigos
+Fullscreen=Tela cheia
+
+Gamma/Brightness:=Gamma/Brilho:
+Go back=Voltar
+
+Host LAN Server:=Hostear servidor em LAN:
+
+INSTABILITY:=INSTABILIDADE:
+Invert Y-Axis=Inverter Eixo Y
+
+Join=Juntar-se
+
+LAN= LAN
+LAUNCH MODE=MODO DE INICIALIZAÇÃO
+Loading...=Carregando...
+Local-only=Apenas local
+Look sensitivity:=Sensibilidade da câmera:
+
+Master volume:=Volume Geral:
+Max players...=Jogadores máximos...
+Maximized window=Janela maximizada
+MODE: Push to talk=MODO: Apertar para falar
+MODE: Voice activation=MODO: Voz ativa
+
+# N-Z
+Name your server...=Nomeie seu servidor...
+Online= Online
+r:"BG IG, A System"=     BG IG, Atuações Aliadas Sistemáticas\n     Copyright (C) 2084-2108, Halden Electronics Inc.\n\nCPU                  : BORSON 300 CPU @ 2500 MHz\nTeste de Memória             : 4521586K OK\n\nBoot Distributioner Application\nDireitos Reservados (C) Distributor 2107\n     Detectando ROM Sting X\n     Detectando Extensor Web LNV\n     Detectando Respostas Neurais OK\n\n\nDispositivo UTGF Recebendo...\n\nCORPO      ID    R-Neural  Classe do Dispositivo \n-----------------------------------------------\n\n    2     52      JoC152                H515   \n    2     52      Sa5155                H515    \n    2      52      Bo75                 H515      \n    2      52        Eri510                H515    \n    1   36    Ell567                  H515  \n    1   36      Jos912                H515\n    null 
+r:"^Do you want to delete File (.+)\?$"=Você quer deletar o save $1?
+
+Save File=Save
+Server name:=Nome do servidor:
+Servers=Servers
+Sort: far=Filtrar: longe
+Sort: near=Filtrar: perto
+Sort: worldwide=Filtrar: global
+Started server, joining...=Servidor aberto, entrando...
+
+The server host disconnected.=O host do servidor desconectou.
+
+Unconfirmed changes!=Há mudanças para confirmar!
+Use monitor (V-Sync)=Usar monitor (V-Sync)
+
+Voice Volume=Volume da Voz
+
+Welcome!=Bem-vindo!
+Welcome! Version 45 is out now.\nOthers must update their game to play with you on this version.\n\n\nGood luck!=Bem-vindo!\nA Versão 45 já está disponível.\nOs outros jogadores precisam atualizar para jogar com você nessa versão.\nBoa sorte!
+Version 45 is out!=Versão 45 está disponível!
+W=W
+Window=Janela
+Windowed fullscreen=Janela sem bordas
+Would you like to leave the game?=Você quer sair do jogo?
+
+You are in LAN mode. When allowing remote connections through LAN, please ensure you have sufficient network security such as a firewall and/or VPN.=Você está em modo LAN. Para permitir conexões remotas por LAN, certifique-se de que a segurança da sua rede seja suficiente para essas conexões, como no firewall e/ou na VPN.
+
+#Rebind Controls
+Button East=B/O
+Button South=A/X
+Button West=X/□
+Button North=Y/△
+
+Control=Controle
+Crouch=Agachar
+
+D-Pad/Down=D-Pad/Baixo
+D-Pad/Left=D-Pad/Esquerda
+D-Pad/Right=D-Pad/Direita
+D-Pad/Up=D-Pad/Cima
+Dance=Dançar
+
+Enable chat=Habilitar chat
+Enter=Enter
+
+Interact=Interagir
+Item Secondary use=Uso Secundário do item
+Item Tertiary use=Uso Terciário do item
+Item drop=Dropar item
+Item inspect=Inspecionar item
+Item primary use=Uso primário do item
+Item secondary use=Uso secundário do item
+Item switch left=Alternar item para esquerda
+Item switch right=Alternar item para direita
+Item tertiary use=Uso terciário do item
+
+Jump=Pular
+
+Left Button=Botão Esquerdo
+Left Shoulder=L1/LB
+Left Stick Press=Botão Analógico Esquerdo
+Left Stick/Down=Analógico Esquerdo/Baixo
+Left Stick/Left=Analógico Esquerdo/Esquerda
+Left Stick/Right=Analógico Esquerdo/Direita
+Left Stick/Up=Analógico Esquerdo/Cima
+Left Trigger=L2/LT
+
+Move back=Andar para trás
+Move forward=Andar para frente
+Move left=Andar para esquerda
+Move right=Andar para direita
+
+Ping scan=Usar Ping/Scanner
+Point=Apontar
+Push to talk=Apertar para falar
+
+REBIND CONTROLLERS=RECONECTAR CONTROLES
+REMAP CONTROLS=REMAPEAR CONTROLES
+Replace furniture=Substituir móvel
+Right Button=Botão Direito
+Right Shoulder=R1/RB
+Right Stick Press=Botão Analógico Direito
+Right Trigger=R2/RT
+
+Scroll/Down=Rolar/Baixo
+Scroll/Up=Rolar/Cima
+Shift=Shift
+Space=Barra de Espaço
+Sprint=Correr
+Store furniture=Armazenar móvel
+Submit chat=Enviar chat
+Turn furniture=Girar móvel
+
+Walk back=Andar para trás
+Walk forward=Andar para frente
+Walk left=Andar para esquerda
+Walk right=Andar para direita

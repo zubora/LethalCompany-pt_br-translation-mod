@@ -1,0 +1,28 @@
+﻿# Creatures
+#TODO: Review and Standardize, indeed
+
+Baboon hawk=Águia-Macaco
+Bracken=Braquen
+Bunker spider=Aranha Bunker
+Circuit bees=Abelhas Elétricas
+Coil-head=Cabeça-de-Mola
+Earth leviathan=Leviatã Terrestre
+Eyeless dog=Cão Cego
+
+
+Flowerman=Homem-Planta
+Forest Giant=Gigante da Floresta
+Forest keeper=Guardião da Floresta
+Ghost girl=Criança Fantasma
+Hoarding bug=Loot Bug
+Hygrodere=Hidrogêno
+Jeb=Carlos
+Jester=Bobo da Corte
+Landmine=Mina Terrestre
+Manticoil=Mantícoli
+Nutcracker=Quebra-Nozes
+Roaming locusts=Gafanhotos
+Snare flea=Pulga-Cabeçote
+Spore lizard=Lagarto Flatulento
+Thumper=Bípede Bocal
+Turret=Torreta
